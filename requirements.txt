@@ -1,0 +1,16 @@
+# QFS Trader — Python dependencies (pinned to a known-good set)
+# Install with:  pip install -r requirements.txt
+
+# --- Core: required to run intraday_analysis_app.py ---
+streamlit==1.57.0
+streamlit-autorefresh==1.0.1
+pandas==3.0.3
+plotly==6.8.0
+yfinance==1.4.0
+pytz==2026.2
+
+# --- Also used by qfs_analyzer.py (optional ORB box overlay + CLI)
+#     and the ORB apps (orb_long_app.py / orb_long_short_app.py) ---
+numpy==2.4.6
+matplotlib==3.10.9
+mplfinance==0.12.10b0
