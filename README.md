@@ -128,3 +128,9 @@ Every sidebar control has a hover tooltip (ⓘ) describing what it does.
   (`pip install -U yfinance`).
 - The signal ribbon and ORB levels are **mechanical technical readouts, not financial
   advice.**
+
+---
+
+## Author
+
+Created by [Ryan Hussain](https://github.com/splicergroup).
